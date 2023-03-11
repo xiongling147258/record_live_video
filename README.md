@@ -1,5 +1,5 @@
 1.简介
-  使用python和开源库，可以在win7/10/11上录制虎牙视频  
+  使用python和开源库，可以在win7/10/11、rk3399等上录制虎牙视频  
 2.如何使用  
  参考如下命令：   
 if [ ! -d "/home/xl/files1/record_v2/main.py" ]; then  
